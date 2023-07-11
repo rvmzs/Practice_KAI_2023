@@ -1,0 +1,37 @@
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\bin\Debug\Praktika_Lavrentev_Abdrahmanov.exe.config
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\bin\Debug\Praktika_Lavrentev_Abdrahmanov.exe
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\bin\Debug\Praktika_Lavrentev_Abdrahmanov.pdb
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\App.g.cs
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov_MarkupCompile.cache
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov_MarkupCompile.lref
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\MainWindow.baml
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.g.resources
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.Properties.Resources.resources
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.exe
+C:\Users\maxim\source\repos\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\bin\Debug\Praktika_Lavrentev_Abdrahmanov.exe.config
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\bin\Debug\Praktika_Lavrentev_Abdrahmanov.exe
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\bin\Debug\Praktika_Lavrentev_Abdrahmanov.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov_MarkupCompile.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov_MarkupCompile.lref
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\MainWindow.baml
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.g.resources
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.Properties.Resources.resources
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.exe
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\TimeWindow.g.cs
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\TimeWindow.baml
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\BalanceWindow.g.cs
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\BalanceWindow.baml
+C:\Users\maxim\OneDrive\Рабочий стол\Praktika_Lavrentev_Abdrahmanov\obj\Debug\Praktika_Lavrentev_Abdrahmanov.Resource.resources
