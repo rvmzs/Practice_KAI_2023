@@ -1,0 +1,65 @@
+﻿<Window x:Class="Praktika_Lavrentev_Abdrahmanov.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika_Lavrentev_Abdrahmanov"
+        mc:Ignorable="d"
+        Title="Модель терминала оплаты автостоянки" Height="600" Width="1130" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Background" Value="#D3D3D3"/>
+        </Style>
+
+    </Window.Resources>
+    
+    <Grid x:Name="mainGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="200"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="1" Grid.RowSpan="5" Background="#FFD3A5FF" Margin="10"></StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Grid.RowSpan="5" Background="#ADD8E6"  Margin="10"></StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="1" Grid.RowSpan="5" Background="#FFFFD3AC"  Margin="10"></StackPanel>
+
+        <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Name="menuGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="180"/>
+                <ColumnDefinition Width="120"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="4" FontSize="16" Content="Изменить баланс" Width="Auto" Margin="20,0,20,0" Click="Button_Click_3"/>
+            <Button Grid.Column="5" FontSize="16" Content="Уехать" Width="Auto" Margin="20,0,20,0" Click="Button_Click_2"/>
+        </Grid>
+
+        <TextBlock Text="Терминал 1" FontSize="28" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        
+        <Button Grid.Column="0" Grid.Row="4" Content="Получить карту" Name="GetPassCardButton" Click="GetPassCardButton_Click"/>
+
+        <TextBlock Text="Терминал 2" FontSize="28" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+
+        <Button Grid.Column="1" Grid.Row="5" Content="Оплатить" Click="Button_Click_1"></Button>
+
+        <TextBlock Text="Терминал 3" FontSize="28" Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+
+        <Button Grid.Column="2" Grid.Row="4" Content="Сдать карту" Click="Button_Click"></Button>
+    </Grid>
+</Window>
